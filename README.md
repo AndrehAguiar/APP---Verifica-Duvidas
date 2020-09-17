@@ -69,5 +69,5 @@ esclareçam suas dúvidas, aproximando o estudo
 do universo virtual e melhorar a avaliação geral
 dos alunos na escola.
 
-Protótipo integrado diponível em: https://drive.google.com/file/d/1tInJPyFS-tl3xWtAL-pmHlosB1tMN_qM/view?usp=sharing
+Protótipo integrado diponível em: [Android](https://drive.google.com/file/d/1tInJPyFS-tl3xWtAL-pmHlosB1tMN_qM/view?usp=sharing)<br>
 Integrado ao site: http://topartes.esy.es/
